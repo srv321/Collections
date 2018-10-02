@@ -9,7 +9,7 @@ public class ArrayListConcept {
 
 		int a[] = new int[3];//static array -- size is fixed
 
-		//dynamic array -- ArrayList:
+		//dynamic array -- ArrayList: test
 		//1. can contain duplicate values/elements
 		//2.maintains insertion order
 		//3. Not Sychronized i.e. not thread safe hence it is slower than other Collections
